@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{22854415-1B1D-40ED-B8FB-DC6F63CACBE3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MEMDBTest</RootNamespace>
-    <AssemblyName>MEMDBTest</AssemblyName>
+    <RootNamespace>QuickenMEMExporter</RootNamespace>
+    <AssemblyName>QuickenMEMExporter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

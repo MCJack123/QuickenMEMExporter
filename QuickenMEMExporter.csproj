@@ -56,20 +56,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DataWeb.TurboDB">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Quicken Medical Expense Manager\DataWeb.TurboDB.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Quicken Medical Expense Manager\DataWeb.TurboDB.dll</HintPath>
     </Reference>
     <Reference Include="MemAppDll">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Quicken Medical Expense Manager\MemAppDll.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Quicken Medical Expense Manager\MemAppDll.dll</HintPath>
     </Reference>
     <Reference Include="MemControls">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Quicken Medical Expense Manager\MemControls.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Quicken Medical Expense Manager\MemControls.dll</HintPath>
     </Reference>
-    <Reference Include="MemDataSets, Version=1.0.2837.30546, Culture=neutral">
+    <Reference Include="MemDataSets, Version=1.0.2837.30546, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\MemDataSets\bin\Debug\MemDataSets.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Quicken Medical Expense Manager\MemDataSets.dll</HintPath>
     </Reference>
     <Reference Include="MemUtils">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Quicken Medical Expense Manager\MemUtils.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Quicken Medical Expense Manager\MemUtils.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
